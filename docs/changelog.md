@@ -2,7 +2,8 @@
 Сначала новейшие изменения.
 |Хэш коммита|Описание|Дата|Автор|Почта|
 |-----------|--------|----|-----|-----|
-|latest commit|Добавлены тесты модулей|1 Ноября 2026|[Chduck](https://github.com/Chduck)|andrejudin91233@gmail.com|
+|latest commit|Добавлена автоматизация тестов|13 Ноября 2026|[Chduck](https://github.com/Chduck)|andrejudin91233@gmail.com|
+|`cdf2dd070108f7b66b3e22f9e8d7c7249dbc2bbe`|Добавлены тесты модулей|1 Ноября 2026 18:55:37 +0300|[Chduck](https://github.com/Chduck)|andrejudin91233@gmail.com|
 |`a489025ea89afe1b2fb13120359c1704a8ca5975`|Добавлен changelog и описания функций, обновлен readme|8 Октября 2026 19:14:36 +0300|[Chduck](https://github.com/Chduck)|andrejudin91233@gmail.com|
 |`6a870f2b344da4a03e39f08f07a8db86e31dea6e`|Добавлен triangle.py для вычисления площади и периметра треугольника и исправлен rectangle.py|2 Октября 2026 11:13:45 +0300|[Chduck](https://github.com/Chduck)|andrejudin91233@gmail.com|
 |`8e08541444313b392c01e9a27a4ac20e422f5fc2`|Добавлен rectangle.py для вычисления площади и периметра прямоугольников|2 Октября 2026 11:07:05 +0300|[Chduck](https://github.com/Chduck)|andrejudin91233@gmail.com|
